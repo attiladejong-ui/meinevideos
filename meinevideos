@@ -23,8 +23,6 @@ http://195.189.60.31:8003/play/a0fa/index.m3u8
 http://213.163.13.122:1559/udp/239.1.10.113:2000
 #EXTINF:0 type="video" channelId="-1" group="MAGYAR", RTL HD HU
 http://195.189.60.31:8003/play/a0f3/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="MAGYAR", AMC HD
-http://wanicelife.com:8880/3ca7083n03/asdf32e32/31350
 #EXTINF:0 type="video" channelId="-1" group="MAGYAR", RTL 2HD
 http://213.163.13.122:1559/udp/239.1.10.124:2000
 #EXTINF:0 type="video" channelId="-1" group="MAGYAR", PRIME
@@ -35,10 +33,6 @@ http://195.189.60.31:8003/play/a0f2/index.m3u8
 http://213.163.13.122:1559/udp/239.1.10.167:2000
 #EXTINF:0 type="video" channelId="-1" group="MAGYAR", M4 SPORT HD
 http://213.163.13.122:1559/udp/239.1.10.135:2000
-#EXTINF:0 type="video" channelId="-1" group="MAGYAR", SPILER
-http://213.163.13.122:1559/udp/239.1.10.154:2000
-#EXTINF:0 type="video" channelId="-1" group="MAGYAR", SPILER 2
-http://213.163.13.122:1559/udp/239.1.10.155:2000
 #EXTINF:0 type="video" channelId="-1" group="MAGYAR", MATCH 4 HD
 http://213.163.13.122:1559/udp/239.1.10.19:2000
 #EXTINF:0 type="video" channelId="-1" group="MAGYAR", ARENA 4 HD
