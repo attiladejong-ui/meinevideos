@@ -1,0 +1,477 @@
+#EXTM3U
+#EXTINF:0 type="video" channelId="-1" group="MAGYAR", M4 SPORT HD
+http://84ef356e.amazzin.pw/iptv/THC4QQ3CM93NS4/31519/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="MAGYAR", HBO HD
+http://213.163.13.122:1559/udp/239.1.10.37:2000
+#EXTINF:0 type="video" channelId="-1" group="MAGYAR", HBO HD
+http://195.189.60.31:8003/play/a0i8/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="MAGYAR", HBO2 HD
+http://213.163.13.122:1559/udp/239.1.10.38:2000
+#EXTINF:0 type="video" channelId="-1" group="MAGYAR", HBO 3 HD
+http://213.163.13.122:1559/udp/239.1.10.39:2000
+#EXTINF:0 type="video" channelId="-1" group="MAGYAR", CINEMAX HD
+http://213.163.13.122:1559/udp/239.1.10.40:2000
+#EXTINF:0 type="video" channelId="-1" group="MAGYAR", CINEMAX 2 HD
+http://wanicelife.com:8880/3ca7083n03/asdf32e32/31339
+#EXTINF:0 type="video" channelId="-1" group="MAGYAR", MAGYAR MOZI TV
+http://213.163.13.122:1559/udp/239.1.10.76:2000
+#EXTINF:0 type="video" channelId="-1" group="MAGYAR", M1 HD
+http://213.163.13.122:1559/udp/239.1.10.1:2000
+#EXTINF:0 type="video" channelId="-1" group="MAGYAR", TV2 HD
+http://195.189.60.31:8003/play/a0fa/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="MAGYAR", TV2 SUPER HD
+http://213.163.13.122:1559/udp/239.1.10.113:2000
+#EXTINF:0 type="video" channelId="-1" group="MAGYAR", RTL HD HU
+http://195.189.60.31:8003/play/a0f3/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="MAGYAR", AMC HD
+http://wanicelife.com:8880/3ca7083n03/asdf32e32/31350
+#EXTINF:0 type="video" channelId="-1" group="MAGYAR", RTL 2HD
+http://213.163.13.122:1559/udp/239.1.10.124:2000
+#EXTINF:0 type="video" channelId="-1" group="MAGYAR", PRIME
+http://213.163.13.122:1559/udp/239.1.10.63:2000
+#EXTINF:0 type="video" channelId="-1" group="MAGYAR", SPORT 1 HD
+http://195.189.60.31:8003/play/a0f2/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="MAGYAR", SPORT 2
+http://213.163.13.122:1559/udp/239.1.10.167:2000
+#EXTINF:0 type="video" channelId="-1" group="MAGYAR", M4 SPORT HD
+http://213.163.13.122:1559/udp/239.1.10.135:2000
+#EXTINF:0 type="video" channelId="-1" group="MAGYAR", SPILER
+http://213.163.13.122:1559/udp/239.1.10.154:2000
+#EXTINF:0 type="video" channelId="-1" group="MAGYAR", SPILER 2
+http://213.163.13.122:1559/udp/239.1.10.155:2000
+#EXTINF:0 type="video" channelId="-1" group="MAGYAR", MATCH 4 HD
+http://213.163.13.122:1559/udp/239.1.10.19:2000
+#EXTINF:0 type="video" channelId="-1" group="MAGYAR", ARENA 4 HD
+http://213.163.13.122:1559/udp/239.1.10.62:2000
+#EXTINF:0 type="video" channelId="-1" group="MAGYAR", M1
+http://185.236.230.212:9981/play/a09z
+#EXTINF:0 type="video" channelId="-1" group="MAGYAR", FILM+ HD
+http://213.163.13.122:1559/udp/239.1.10.126:2000
+#EXTINF:0 type="video" channelId="-1" group="MAGYAR", COOL HD
+http://213.163.13.122:1559/udp/239.1.10.125:2000
+#EXTINF:0 type="video" channelId="-1" group="MAGYAR", COOL
+http://185.236.230.212:9981/play/a0aq
+#EXTINF:0 type="video" channelId="-1" group="MAGYAR", AMC
+http://213.163.13.122:1559/udp/239.1.10.139:2000
+#EXTINF:0 type="video" channelId="-1" group="MAGYAR", PRIME HD
+http://wanicelife.com:8880/3ca7083n03/asdf32e32/31290
+#EXTINF:0 type="video" channelId="-1" group="MAGYAR", AXN HD
+http://wanicelife.com:8880/3ca7083n03/asdf32e32/31347
+#EXTINF:0 type="video" channelId="-1" group="MAGYAR", MOZI+
+http://213.163.13.122:1559/udp/239.1.10.64:2000
+#EXTINF:0 type="video" channelId="-1" group="MAGYAR", RTL 2 HU
+http://195.189.60.31:8003/play/a0i4/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="MAGYAR", RTL 3 HU
+http://195.189.60.31:8003/play/a0i6/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="MAGYAR", VIASAT 3
+http://213.163.13.122:1559/udp/239.1.10.16:2000
+#EXTINF:0 type="video" channelId="-1" group="MAGYAR", VIASAT 2
+http://213.163.13.122:1559/udp/239.1.10.118:2000
+#EXTINF:0 type="video" channelId="-1" group="MAGYAR", VIASAT 6
+http://213.163.13.122:1559/udp/239.1.10.79:2000
+#EXTINF:0 type="video" channelId="-1" group="MAGYAR", HIR TV
+http://185.236.230.212:9981/play/a09y
+#EXTINF:0 type="video" channelId="-1" group="MAGYAR", SUPER TV
+http://185.236.230.212:9981/play/a0br
+#EXTINF:0 type="video" channelId="-1" group="MAGYAR", FILM+
+http://185.236.230.212:9981/play/a0ao
+#EXTINF:0 type="video" channelId="-1" group="MAGYAR", DUNA
+https://viamotionhsi.netplus.ch/live/eds/duna/browser-dash/duna.mpd
+#EXTINF:0 type="video" channelId="-1" group="MAGYAR", DUNA WORLD HD
+http://213.163.13.122:1559/udp/239.1.10.4:2000
+#EXTINF:0 type="video" channelId="-1" group="MAGYAR", Duna World /M4 Sport+
+http://185.236.230.212:9981/play/a0an
+#EXTINF:0 type="video" channelId="-1" group="MAGYAR", HISTORY HD
+http://213.163.13.122:1559/udp/239.1.10.116:2000
+#EXTINF:0 type="video" channelId="-1" group="MAGYAR", BBC EARTH
+http://213.163.13.122:1559/udp/239.1.10.106:2000
+#EXTINF:0 type="video" channelId="-1" group="MAGYAR", VIASAT HISTORY
+http://213.163.13.122:1559/udp/239.1.10.78:2000
+#EXTINF:0 type="video" channelId="-1" group="MAGYAR", M5 HD HU
+http://195.189.60.31:8003/play/a0fd/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="MAGYAR", M2 HD HU
+http://195.189.60.31:8003/play/a0f1/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="MAGYAR", SOROZAT+
+http://213.163.13.122:1559/udp/239.1.10.128:2000
+#EXTINF:0 type="video" channelId="-1" group="MAGYAR", FILM CAFE HD
+http://wanicelife.com:8880/3ca7083n03/asdf32e32/31315
+#EXTINF:0 type="video" channelId="-1" group="MAGYAR", EPIC DRAMA
+http://213.163.13.122:1559/udp/239.1.10.163:2000
+#EXTINF:0 type="video" channelId="-1" group="MAGYAR", FILM MANIA HD
+http://213.163.13.122:1559/udp/239.1.10.96:2000
+#EXTINF:0 type="video" channelId="-1" group="MAGYAR", MOZIVERZUM
+http://213.163.13.122:1559/udp/239.1.10.158:2000
+#EXTINF:0 type="video" channelId="-1" group="MAGYAR", PARAMOUNT
+http://213.163.13.122:1559/udp/239.1.10.119:2000
+#EXTINF:0 type="video" channelId="-1" group="MAGYAR", VIASAT FILM
+http://213.163.13.122:1559/udp/239.1.10.117:2000
+#EXTINF:0 type="video" channelId="-1" group="MAGYAR", Filmbox Premium
+http://195.189.60.31:8003/play/a0f6/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="MAGYAR", FILMBOX EXTRA HD
+http://195.189.60.31:8003/play/a0fe/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="MAGYAR", FILMBOX STARS
+http://213.163.13.122:1559/udp/239.1.10.175:2000
+#EXTINF:0 type="video" channelId="-1" group="MAGYAR", JOCKY TV
+http://213.163.13.122:1559/udp/239.1.10.159:2000
+#EXTINF:0 type="video" channelId="-1" group="MAGYAR", TV4
+http://213.163.13.122:1559/udp/239.1.10.34:2000
+#EXTINF:0 type="video" channelId="-1" group="MAGYAR", FILM 4
+http://213.163.13.122:1559/udp/239.1.10.164:2000
+#EXTINF:0 type="video" channelId="-1" group="MAGYAR", AXN
+http://213.163.13.122:1559/udp/239.1.10.132:2000
+#EXTINF:0 type="video" channelId="-1" group="MAGYAR", STORY 4
+http://213.163.13.122:1559/udp/239.1.10.85:2000
+#EXTINF:0 type="video" channelId="-1" group="MAGYAR", MAX4
+http://213.163.13.122:1559/udp/239.1.10.75:2000
+#EXTINF:0 type="video" channelId="-1" group="MAGYAR", IZAURA TV
+http://213.163.13.122:1559/udp/239.1.10.145:2000
+#EXTINF:0 type="video" channelId="-1" group="MAGYAR", LIFE
+http://213.163.13.122:1559/udp/239.1.10.90:2000
+#EXTINF:0 type="video" channelId="-1" group="MAGYAR", ATV
+http://213.163.13.122:1559/udp/239.1.10.152:2000
+#EXTINF:0 type="video" channelId="-1" group="MAGYAR", ATV EXTRA
+http://213.163.13.122:1559/udp/239.1.10.161:2000
+#EXTINF:0 type="video" channelId="-1" group="MAGYAR", SOROZAT KLUB
+http://213.163.13.122:1559/udp/239.1.10.72:2000
+#EXTINF:0 type="video" channelId="-1" group="MAGYAR", Discovery Channel HD
+http://wanicelife.com:8880/3ca7083n03/asdf32e32/31329
+#EXTINF:0 type="video" channelId="-1" group="MAGYAR", NAT GEO HD
+http://195.189.60.31:8003/play/a0gd/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="MAGYAR", DANCE TV
+https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
+#EXTINF:0 type="video" channelId="-1" group="MAGYAR", EUROSPORT 1
+http://213.163.13.122:1559/udp/239.1.10.120:2000
+#EXTINF:0 type="video" channelId="-1" group="MAGYAR", EUROSPORT 2
+http://213.163.13.122:1559/udp/239.1.10.121:2000
+#EXTINF:0 type="video" channelId="-1" group="MAGYAR", OZONE HD
+http://213.163.13.122:1559/udp/239.1.10.52:2000
+#EXTINF:0 type="video" channelId="-1" group="MAGYAR", SPEKTRUM
+http://213.163.13.122:1559/udp/239.1.10.165:2000
+#EXTINF:0 type="video" channelId="-1" group="MAGYAR", SPEKTRUM HOME
+http://213.163.13.122:1559/udp/239.1.10.166:2000
+#EXTINF:0 type="video" channelId="-1" group="MAGYAR", DISCOVERY ID
+http://213.163.13.122:1559/udp/239.1.10.70:2000
+#EXTINF:0 type="video" channelId="-1" group="MAGYAR", CARTOON NETWORK
+http://213.163.13.122:1559/udp/239.1.10.74:2000
+#EXTINF:0 type="video" channelId="-1" group="MAGYAR", TV2 KIDS
+http://213.163.13.122:1559/udp/239.1.10.148:2000
+#EXTINF:0 type="video" channelId="-1" group="MAGYAR", NICK JR
+http://213.163.13.122:1559/udp/239.1.10.140:2000
+#EXTINF:0 type="video" channelId="-1" group="MAGYAR", TV2 COMEDY
+http://213.163.13.122:1559/udp/239.1.10.146:2000
+#EXTINF:0 type="video" channelId="-1" group="MAGYAR", PANNON RTV
+https://stream.nmih.hu:4102/live.m3u8
+#EXTINF:0 type="video" channelId="-1" group="MAGYAR", VIASAT EXPLORER
+http://213.163.13.122:1559/udp/239.1.10.28:2000
+#EXTINF:0 type="video" channelId="-1" group="MAGYAR", BALATON TV
+https://stream.iptvservice.eu/hls/balatontv.m3u8
+#EXTINF:0 type="video" channelId="-1" group="MAGYAR", TRAVEL
+http://213.163.13.122:1559/udp/239.1.10.104:2000
+#EXTINF:0 type="video" channelId="-1" group="MAGYAR", RTL OTTHON HD
+http://213.163.13.122:1559/udp/239.1.10.93:2000
+#EXTINF:0 type="video" channelId="-1" group="MAGYAR", VIASAT NATURE HD
+http://213.163.13.122:1559/udp/239.1.10.65:2000
+#EXTINF:0 type="video" channelId="-1" group="MAGYAR", NAT GEO WILD HD
+http://213.163.13.122:1559/udp/239.1.10.60:2000
+#EXTINF:0 type="video" channelId="-1" group="MAGYAR", ANIMAL PLANET
+http://213.163.13.122:1559/udp/239.1.10.102:2000
+#EXTINF:0 type="video" channelId="-1" group="MAGYAR", TLC
+http://213.163.13.122:1559/udp/239.1.10.151:2000
+#EXTINF:0 type="video" channelId="-1" group="MAGYAR", DISCOVERY
+http://213.163.13.122:1559/udp/239.1.10.150:2000
+#EXTINF:0 type="video" channelId="-1" group="MAGYAR", RTL GOLD
+http://wanicelife.com:8880/DAANM2777/Xvd4eLMM7m/31289
+#EXTINF:0 type="video" channelId="-1" group="MAGYAR", COMEDY CENTRAL
+http://213.163.13.122:1559/udp/239.1.10.114:2000
+#EXTINF:0 type="video" channelId="-1" group="MAGYAR", VADASZ
+http://213.163.13.122:1559/udp/239.1.10.67:2000
+#EXTINF:0 type="video" channelId="-1" group="MAGYAR", d1
+http://213.163.13.122:1559/udp/239.1.10.6:2000
+#EXTINF:0 type="video" channelId="-1" group="MAGYAR", JAZZ TV
+http://213.163.13.122:1559/udp/239.1.10.11:2000
+#EXTINF:0 type="video" channelId="-1" group="MAGYAR", SLÁGER TV
+http://213.163.13.122:1559/udp/239.1.10.89:2000
+#EXTINF:0 type="video" channelId="-1" group="MAGYAR", ZENEBUTIK
+http://213.163.13.122:1559/udp/239.1.10.149:2000
+#EXTINF:0 type="video" channelId="-1" group="MAGYAR", DA VINCI
+http://213.163.13.122:1559/udp/239.1.10.141:2000
+#EXTINF:0 type="video" channelId="-1" group="MAGYAR", MINIMAX
+http://213.163.13.122:1559/udp/239.1.10.26:2000
+#EXTINF:0 type="video" channelId="-1" group="MAGYAR", TV2 KLUB
+http://213.163.13.122:1559/udp/239.1.10.144:2000
+#EXTINF:0 type="video" channelId="-1" group="MAGYAR", DISNEY CHANNEL
+http://213.163.13.122:1559/udp/239.1.10.88:2000
+#EXTINF:0 type="video" channelId="-1" group="MAGYAR", NICKTOONS
+http://213.163.13.122:1559/udp/239.1.10.112:2000
+#EXTINF:0 type="video" channelId="-1" group="MAGYAR", TV EGER
+http://stream.tveger.hu:8010/live.m3u8
+#EXTINF:0 type="video" channelId="-1" group="MAGYAR", TV2 SÉF
+http://213.163.13.122:1559/udp/239.1.10.147:2000
+#EXTINF:0 type="video" channelId="-1" group="MAGYAR", DIGITAL 1
+http://213.163.13.122:1559/udp/239.1.10.122:2000
+#EXTINF:0 type="video" channelId="-1" group="MAGYAR", PAX
+http://213.163.13.122:1559/udp/239.1.10.10:2000
+#EXTINF:0 type="video" channelId="-1" group="MAGYAR", DIKH
+http://213.163.13.122:1559/udp/239.1.10.157:2000
+#EXTINF:0 type="video" channelId="-1" group="MAGYAR", Sport 1 HD
+http://ef90a6cd.rossteleccom.net/iptv/CHFZNYPGXG3ZZYM5YT7CNGSP/31568/ind
+#EXTINF:0 type="video" channelId="-1" group="MAGYAR", M4 SPORT SD
+http://213.163.13.122:1559/udp/239.1.10.160:2000
+#EXTINF:0 type="video" channelId="-1" group="MAGYAR", KÖLYOK KLUB HD
+http://213.163.13.122:1559/udp/239.1.10.115:2000
+#EXTINF:0 type="video" channelId="-1" group="MAGYAR", CARTOONITO
+http://213.163.13.122:1559/udp/239.1.10.87:2000
+#EXTINF:0 type="video" channelId="-1" group="MAGYAR", TEENNICK
+http://213.163.13.122:1559/udp/239.1.10.153:2000
+#EXTINF:0 type="video" channelId="-1" group="MAGYAR", CINEMAX
+http://185.236.230.212:9981/play/a0c0
+#EXTINF:0 type="video" channelId="-1" group="MAGYAR", The Fishing And Hunting
+http://213.163.13.122:1559/udp/239.1.10.98:2000
+#EXTINF:0 type="video" channelId="-1" group="MAGYAR", JIM JAM
+http://213.163.13.122:1559/udp/239.1.10.46:2000
+#EXTINF:0 type="video" channelId="-1" group="MAGYAR", Duck  Tv
+http://213.163.13.122:1559/udp/239.1.10.97:2000
+#EXTINF:0 type="video" channelId="-1" group="MAGYAR", APOSTOL TV
+http://213.163.13.122:1559/udp/239.1.10.51:2000
+#EXTINF:0 type="video" channelId="-1" group="MAGYAR", HETI TV
+http://213.163.13.122:1559/udp/239.1.10.54:2000
+#EXTINF:0 type="video" channelId="-1", Direct One
+http://line.myunityhost.com:80/play/live.php?mac=00:1A:79:DE:D2:CE&stream=1423943&extension=ts&play_token=BDkOuY6gEthog
+#EXTINF:0 type="video" channelId="-1", MAGYAR MOZI TV #EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.76:2000
+#EXTINF:0 type="video" channelId="-1", HBO HD #EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.37:2000
+#EXTINF:0 type="video" channelId="-1", HBO2 HD #EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.38:2000
+#EXTINF:0 type="video" channelId="-1", HBO 3 HD #EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.39:2000
+#EXTINF:0 type="video" channelId="-1", CINEMAX HD #EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.40:2000
+#EXTINF:0 type="video" channelId="-1", CINEMAX 2 #EXTGRP:unsorted
+http://ibee.shott.top/p/f45564f8e5f172aabf449ce20a69ce9d/1144
+#EXTINF:0 type="video" channelId="-1", HBO 2 HD #EXTGRP:unsorted
+http://cdn.gradina2.info/kanaliURedirect2442Besa/kd0dk39dkyxs0Akd0dk39dkyxs0A/67800
+#EXTINF:0 type="video" channelId="-1", HBO 3 HD #EXTGRP:unsorted
+http://cdn.gradina2.info/kanaliURedirect2442Besa/kd0dk39dkyxs0Akd0dk39dkyxs0A/67801
+#EXTINF:0 type="video" channelId="-1", CINEMAX HD #EXTGRP:unsorted
+http://cdn.gradina2.info/kanaliURedirect2442Besa/kd0dk39dkyxs0Akd0dk39dkyxs0A/67809
+#EXTINF:0 type="video" channelId="-1", CINEMAX 2 HD #EXTGRP:unsorted
+http://cdn.gradina2.info/kanaliURedirect2442Besa/kd0dk39dkyxs0Akd0dk39dkyxs0A/67810
+#EXTINF:0 type="video" channelId="-1", HBO HD #EXTGRP:unsorted
+http://195.189.60.31:8003/play/a0i8/index.m3u8
+#EXTINF:0 type="video" channelId="-1", M1 HD #EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.1:2000
+#EXTINF:0 type="video" channelId="-1", TV2 HD #EXTGRP:unsorted
+http://195.189.60.31:8003/play/a0fa/index.m3u8
+#EXTINF:0 type="video" channelId="-1", TV2 SUPER HD #EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.113:2000
+#EXTINF:0 type="video" channelId="-1", RTL HD HU #EXTGRP:unsorted
+http://195.189.60.31:8003/play/a0f3/index.m3u8
+#EXTINF:0 type="video" channelId="-1", RTL 2HD #EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.124:2000
+#EXTINF:0 type="video" channelId="-1", PRIME #EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.63:2000
+#EXTINF:0 type="video" channelId="-1", SPORT 1 HD #EXTGRP:unsorted
+http://195.189.60.31:8003/play/a0f2/index.m3u8
+#EXTINF:0 type="video" channelId="-1", SPORT 2 #EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.167:2000
+#EXTINF:0 type="video" channelId="-1", M4 SPORT HD #EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.135:2000
+#EXTINF:0 type="video" channelId="-1", SPILER #EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.154:2000
+#EXTINF:0 type="video" channelId="-1", SPILER 2 #EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.155:2000
+#EXTINF:0 type="video" channelId="-1", MATCH 4 HD #EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.19:2000
+#EXTINF:0 type="video" channelId="-1", ARENA 4 HD #EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.62:2000
+#EXTINF:0 type="video" channelId="-1", M1 #EXTGRP:unsorted
+http://185.236.230.212:9981/play/a09z
+#EXTINF:0 type="video" channelId="-1", ATV HD #EXTGRP:unsorted
+http://cdn.gradina2.info/kanaliURedirect2442Besa/kd0dk39dkyxs0Akd0dk39dkyxs0A/67819
+#EXTINF:0 type="video" channelId="-1", FILM+ HD #EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.126:2000
+#EXTINF:0 type="video" channelId="-1", COOL HD #EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.125:2000
+#EXTINF:0 type="video" channelId="-1", COOL #EXTGRP:unsorted
+http://185.236.230.212:9981/play/a0aq
+#EXTINF:0 type="video" channelId="-1", AMC #EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.139:2000
+#EXTINF:0 type="video" channelId="-1", MOZI+ #EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.64:2000
+#EXTINF:0 type="video" channelId="-1", RTL 2 HU #EXTGRP:unsorted
+http://195.189.60.31:8003/play/a0i4/index.m3u8
+#EXTINF:0 type="video" channelId="-1", RTL 3 HU #EXTGRP:unsorted
+http://195.189.60.31:8003/play/a0i6/index.m3u8
+#EXTINF:0 type="video" channelId="-1", VIASAT 3 #EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.16:2000
+#EXTINF:0 type="video" channelId="-1", VIASAT 2 #EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.118:2000
+#EXTINF:0 type="video" channelId="-1", VIASAT 6 #EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.79:2000
+#EXTINF:0 type="video" channelId="-1", HIR TV #EXTGRP:unsorted
+http://185.236.230.212:9981/play/a09y
+#EXTINF:0 type="video" channelId="-1", SUPER TV #EXTGRP:unsorted
+http://185.236.230.212:9981/play/a0br
+#EXTINF:0 type="video" channelId="-1", FILM+ #EXTGRP:unsorted
+http://185.236.230.212:9981/play/a0ao
+#EXTINF:0 type="video" channelId="-1", DUNA #EXTGRP:unsorted
+https://viamotionhsi.netplus.ch/live/eds/duna/browser-dash/duna.mpd
+#EXTINF:0 type="video" channelId="-1", DUNA WORLD HD #EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.4:2000
+#EXTINF:0 type="video" channelId="-1", Duna World /M4 Sport+ #EXTGRP:unsorted
+http://185.236.230.212:9981/play/a0an
+#EXTINF:0 type="video" channelId="-1", HISTORY HD #EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.116:2000
+#EXTINF:0 type="video" channelId="-1", BBC EARTH #EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.106:2000
+#EXTINF:0 type="video" channelId="-1", Discovery #EXTGRP:unsorted
+http://cdn.gradina2.info/kanaliURedirect2442Besa/kd0dk39dkyxs0Akd0dk39dkyxs0A/67815
+#EXTINF:0 type="video" channelId="-1", National Geographic Wild HD #EXTGRP:unsorted
+http://cdn.gradina2.info/kanaliURedirect2442Besa/kd0dk39dkyxs0Akd0dk39dkyxs0A/67816
+#EXTINF:0 type="video" channelId="-1", VIASAT HISTORY #EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.78:2000
+#EXTINF:0 type="video" channelId="-1", M5 HD HU #EXTGRP:unsorted
+http://195.189.60.31:8003/play/a0fd/index.m3u8
+#EXTINF:0 type="video" channelId="-1", M2 HD HU #EXTGRP:unsorted
+http://195.189.60.31:8003/play/a0f1/index.m3u8
+#EXTINF:0 type="video" channelId="-1", SOROZAT+ #EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.128:2000
+#EXTINF:0 type="video" channelId="-1", EPIC DRAMA #EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.163:2000
+#EXTINF:0 type="video" channelId="-1", FILM MANIA HD #EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.96:2000
+#EXTINF:0 type="video" channelId="-1", MOZIVERZUM #EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.158:2000
+#EXTINF:0 type="video" channelId="-1", PARAMOUNT #EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.119:2000
+#EXTINF:0 type="video" channelId="-1", VIASAT FILM #EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.117:2000
+#EXTINF:0 type="video" channelId="-1", Filmbox Premium #EXTGRP:unsorted
+http://195.189.60.31:8003/play/a0f6/index.m3u8
+#EXTINF:0 type="video" channelId="-1", FILMBOX EXTRA HD #EXTGRP:unsorted
+http://195.189.60.31:8003/play/a0fe/index.m3u8
+#EXTINF:0 type="video" channelId="-1", FILMBOX STARS #EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.175:2000
+#EXTINF:0 type="video" channelId="-1", JOCKY TV #EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.159:2000
+#EXTINF:0 type="video" channelId="-1", TV4 #EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.34:2000
+#EXTINF:0 type="video" channelId="-1", FILM 4 #EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.164:2000
+#EXTINF:0 type="video" channelId="-1", AXN #EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.132:2000
+#EXTINF:0 type="video" channelId="-1", STORY 4 #EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.85:2000
+#EXTINF:0 type="video" channelId="-1", HGTV #EXTGRP:unsorted
+http://cdn.gradina2.info/kanaliURedirect2442Besa/kd0dk39dkyxs0Akd0dk39dkyxs0A/67797
+#EXTINF:0 type="video" channelId="-1", MAX4 #EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.75:2000
+#EXTINF:0 type="video" channelId="-1", IZAURA TV #EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.145:2000
+#EXTINF:0 type="video" channelId="-1", LIFE #EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.90:2000
+#EXTINF:0 type="video" channelId="-1", ATV #EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.152:2000
+#EXTINF:0 type="video" channelId="-1", ATV EXTRA #EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.161:2000
+#EXTINF:0 type="video" channelId="-1", SOROZAT KLUB #EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.72:2000
+#EXTINF:0 type="video" channelId="-1", NAT GEO HD #EXTGRP:unsorted
+http://195.189.60.31:8003/play/a0gd/index.m3u8
+#EXTINF:0 type="video" channelId="-1", DANCE TV #EXTGRP:unsorted
+https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
+#EXTINF:0 type="video" channelId="-1", EUROSPORT 1 #EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.120:2000
+#EXTINF:0 type="video" channelId="-1", EUROSPORT 2 #EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.121:2000
+#EXTINF:0 type="video" channelId="-1", OZONE HD #EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.52:2000
+#EXTINF:0 type="video" channelId="-1", SPEKTRUM #EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.165:2000
+#EXTINF:0 type="video" channelId="-1", SPEKTRUM HOME #EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.166:2000
+#EXTINF:0 type="video" channelId="-1", DISCOVERY ID #EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.70:2000
+#EXTINF:0 type="video" channelId="-1", CARTOON NETWORK #EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.74:2000
+#EXTINF:0 type="video" channelId="-1", TV2 KIDS #EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.148:2000
+#EXTINF:0 type="video" channelId="-1", NICK JR #EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.140:2000
+#EXTINF:0 type="video" channelId="-1", TV2 COMEDY #EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.146:2000
+#EXTINF:0 type="video" channelId="-1", PANNON RTV #EXTGRP:unsorted
+https://stream.nmih.hu:4102/live.m3u8
+#EXTINF:0 type="video" channelId="-1", VIASAT EXPLORER #EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.28:2000
+#EXTINF:0 type="video" channelId="-1", BALATON TV #EXTGRP:unsorted
+https://stream.iptvservice.eu/hls/balatontv.m3u8
+#EXTINF:0 type="video" channelId="-1", TRAVEL #EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.104:2000
+#EXTINF:0 type="video" channelId="-1", RTL OTTHON HD #EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.93:2000
+#EXTINF:0 type="video" channelId="-1", VIASAT NATURE HD #EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.65:2000
+#EXTINF:0 type="video" channelId="-1", NAT GEO WILD HD #EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.60:2000
+#EXTINF:0 type="video" channelId="-1", ANIMAL PLANET #EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.102:2000
+#EXTINF:0 type="video" channelId="-1", TLC #EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.151:2000
+#EXTINF:0 type="video" channelId="-1", DISCOVERY #EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.150:2000
+#EXTINF:0 type="video" channelId="-1", COMEDY CENTRAL #EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.114:2000
+#EXTINF:0 type="video" channelId="-1", VADASZ #EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.67:2000
+#EXTINF:0 type="video" channelId="-1", d1 #EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.6:2000
+#EXTINF:0 type="video" channelId="-1", JAZZ TV #EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.11:2000
+#EXTINF:0 type="video" channelId="-1", SLÁGER TV #EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.89:2000
+#EXTINF:0 type="video" channelId="-1", ZENEBUTIK #EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.149:2000
+#EXTINF:0 type="video" channelId="-1", DA VINCI #EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.141:2000
+#EXTINF:0 type="video" channelId="-1", MINIMAX #EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.26:2000
+#EXTINF:0 type="video" channelId="-1", TV2 KLUB #EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.144:2000
+#EXTINF:0 type="video" channelId="-1", DISNEY CHANNEL #EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.88:2000
+#EXTINF:0 type="video" channelId="-1", NICKTOONS #EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.112:2000
+#EXTINF:0 type="video" channelId="-1", TV EGER #EXTGRP:unsorted
+http://stream.tveger.hu:8010/live.m3u8
+#EXTINF:0 type="video" channelId="-1", TV2 SÉF #EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.147:2000
+#EXTINF:0 type="video" channelId="-1", DIGITAL 1 #EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.122:2000
+#EXTINF:0 type="video" channelId="-1", PAX #EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.10:2000
+#EXTINF:0 type="video" channelId="-1", DIKH #EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.157:2000
+#EXTINF:0 type="video" channelId="-1", Sport 1 HD #EXTGRP:unsorted
+http://ef90a6cd.rossteleccom.net/iptv/CHFZNYPGXG3ZZYM5YT7CNGSP/31568/ind
+#EXTINF:0 type="video" channelId="-1", M4 SPORT SD #EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.160:2000
+#EXTINF:0 type="video" channelId="-1", KÖLYOK KLUB HD #EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.115:2000
+#EXTINF:0 type="video" channelId="-1", CARTOONITO #EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.87:2000
+#EXTINF:0 type="video" channelId="-1", TEENNICK #EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.153:2000
+#EXTINF:0 type="video" channelId="-1", CINEMAX #EXTGRP:unsorted
+http://185.236.230.212:9981/play/a0c0
+#EXTINF:0 type="video" channelId="-1", The Fishing And Hunting #EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.98:2000
+#EXTINF:0 type="video" channelId="-1", JIM JAM #EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.46:2000
+#EXTINF:0 type="video" channelId="-1", Duck  Tv #EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.97:2000
+#EXTINF:0 type="video" channelId="-1", APOSTOL TV #EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.51:2000
+#EXTINF:0 type="video" channelId="-1", HETI TV #EXTGRP:unsorted
+http://213.163.13.122:1559/udp/239.1.10.54:2000
